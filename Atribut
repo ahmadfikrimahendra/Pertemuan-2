@@ -1,0 +1,10 @@
+package Pertemuan_2praktik;
+
+import javax.swing.JOptionPane;
+
+public class Atribut {
+    void objek(){
+    JOptionPane.showMessageDialog(null,"Dasar aneh");
+    
+}
+}
