@@ -1,0 +1,11 @@
+public class Objek extends javax.swing.JFrame {
+
+
+    public Objek() {
+        initComponents();
+        setLocationRelativeTo(null);
+    }
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+    Atribut a = new Atribut();
+    a.objek();
+    }
