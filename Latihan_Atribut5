@@ -1,0 +1,8 @@
+import javax.swing.JOptionPane;
+
+public class Latihan_Atribut5 {
+    void atribut5(){
+        JOptionPane.showMessageDialog(null, "Tuh kan, Salah Lagi");
+    }
+    
+}
